@@ -1,7 +1,7 @@
 use std::fs;
 
 fn main() {
-    let input_file_path = "input.txt";
+    let input_file_path = "day-one-input.txt";
 
     println!("read {}", input_file_path);
 
